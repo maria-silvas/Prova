@@ -1,0 +1,15 @@
+/home/madu/Documentos/PrimeiraProva/bin/Debug/net7.0/PrimeiraProva
+/home/madu/Documentos/PrimeiraProva/bin/Debug/net7.0/PrimeiraProva.deps.json
+/home/madu/Documentos/PrimeiraProva/bin/Debug/net7.0/PrimeiraProva.runtimeconfig.json
+/home/madu/Documentos/PrimeiraProva/bin/Debug/net7.0/PrimeiraProva.dll
+/home/madu/Documentos/PrimeiraProva/bin/Debug/net7.0/PrimeiraProva.pdb
+/home/madu/Documentos/PrimeiraProva/obj/Debug/net7.0/PrimeiraProva.csproj.AssemblyReference.cache
+/home/madu/Documentos/PrimeiraProva/obj/Debug/net7.0/PrimeiraProva.GeneratedMSBuildEditorConfig.editorconfig
+/home/madu/Documentos/PrimeiraProva/obj/Debug/net7.0/PrimeiraProva.AssemblyInfoInputs.cache
+/home/madu/Documentos/PrimeiraProva/obj/Debug/net7.0/PrimeiraProva.AssemblyInfo.cs
+/home/madu/Documentos/PrimeiraProva/obj/Debug/net7.0/PrimeiraProva.csproj.CoreCompileInputs.cache
+/home/madu/Documentos/PrimeiraProva/obj/Debug/net7.0/PrimeiraProva.dll
+/home/madu/Documentos/PrimeiraProva/obj/Debug/net7.0/refint/PrimeiraProva.dll
+/home/madu/Documentos/PrimeiraProva/obj/Debug/net7.0/PrimeiraProva.pdb
+/home/madu/Documentos/PrimeiraProva/obj/Debug/net7.0/PrimeiraProva.genruntimeconfig.cache
+/home/madu/Documentos/PrimeiraProva/obj/Debug/net7.0/ref/PrimeiraProva.dll
